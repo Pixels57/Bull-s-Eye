@@ -10,6 +10,8 @@ A mini game about guessing a slider's value to match a target developed in Swift
 * [License](./LICENSE)
 # Main Operations
 The app opens at the main screen shown:
+
+
 <img width="309" alt="Screen Shot 2024-11-11 at 10 19 37 PM" src="https://github.com/user-attachments/assets/727ad608-263d-4d1a-8ec3-9953104cc5f5">
 
 
