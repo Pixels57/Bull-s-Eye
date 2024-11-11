@@ -2,41 +2,33 @@
 A mini game about guessing a slider's value to match a target developed in Swift and SwiftUI
 
 
-* [Main Operations](#Main-Operations)
-* [How To Run](#How-To-Run)
-* [How To Use](#How-To-Use)
-* [Project Description File](./PT_Project_Phase2_F22.pdf)
-* [Contributors](#Contributors)
-* [License](./LICENSE)
 # Main Operations
-The app opens at the main screen shown:
+- The app opens at the main screen shown:
 
 
 <img width="309" alt="Screen Shot 2024-11-11 at 10 19 37 PM" src="https://github.com/user-attachments/assets/727ad608-263d-4d1a-8ec3-9953104cc5f5">
 
+- Then you try to hit the target using the slider and the hit me button and you get a score after hitting the button:
 
-# How To Run
-Using Visual Studio:
-1. Download all files on your local machine.
-2. Open "Paint-For-Kids" folder.
-3. Open "PaintForKids" folder.
-4. Open "PT-Project.sln" file, using Visual Studio.
-5. Run the code (F5).
-# How To Use
-* ## After running the project this interface will be shown:
-![Screenshot 2024-02-08 191655](https://github.com/mariofouad/Paint-For-Kids/assets/119708778/763a6c3d-60b5-4be0-bea6-99ebe93dd853)
 
-* ## You can select and draw any figure from the toolbar:
-![Screenshot 2024-02-08 191719](https://github.com/mariofouad/Paint-For-Kids/assets/119708778/03e6ef76-8d1a-46da-8419-0060f454283d)
+<img width="287" alt="Screen Shot 2024-11-11 at 10 23 17 PM" src="https://github.com/user-attachments/assets/a36c6891-6edb-45fb-b5b3-c97f13924583">
 
-* ## Any action can be chosen and applied from the toolbar:
-![Screenshot 2024-02-08 191826](https://github.com/mariofouad/Paint-For-Kids/assets/119708778/4e9786f7-9bdd-4100-9119-fcc222a94ef7)
+- Then you can start a new round and you can keep track of your score and number of rounds below
 
-* ## You can switch to play mode and choose any game from the toolbar
-![Screenshot 2024-02-08 192012](https://github.com/mariofouad/Paint-For-Kids/assets/119708778/77af4bba-8bda-4b96-97a8-1e29b7d9c6b1)
-# Contributors
-Contributors in the project:
-* [Doha](https://github.com/DohaBeltagy)
-* [Mario Fouad](https://github.com/mariofouad)
-* [Moaz Hashem](https://github.com/Pixels57)
-* Shahd Hesham
+
+<img width="279" alt="Screen Shot 2024-11-11 at 10 25 09 PM" src="https://github.com/user-attachments/assets/8f176365-dbdc-45d8-b03d-74515a8e0583">
+
+
+- There is leaderboard view too to keep track of scores:
+
+<img width="288" alt="Screen Shot 2024-11-11 at 10 26 38 PM" src="https://github.com/user-attachments/assets/82472b59-6586-422e-954e-7c409811dcab">
+
+- The game can be reset using the reset button at the top left
+- The app is developed also in dark theme, some snapshots are provided below:
+
+
+<img width="297" alt="Screen Shot 2024-11-11 at 10 29 12 PM" src="https://github.com/user-attachments/assets/d80093e3-b463-472f-bee6-49ae88386af6">
+
+<img width="296" alt="Screen Shot 2024-11-11 at 10 30 02 PM" src="https://github.com/user-attachments/assets/08b81158-76ee-4ffe-b906-040d59b84940">
+
+<img width="311" alt="Screen Shot 2024-11-11 at 10 30 36 PM" src="https://github.com/user-attachments/assets/8543cd25-21a5-4422-b5bd-0faf1243ecaf">
